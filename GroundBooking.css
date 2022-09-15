@@ -1,0 +1,57 @@
+.styleObj1 {
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+    }
+
+.styleObj6{
+    color: antiquewhite;
+    justify-content: center;
+    align-content: center;
+}
+
+thead{
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: 24px;
+    text-align: center;
+    
+}
+
+thead:hover{
+    color: whitesmoke;
+   
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-position: center;
+      width:100%;
+}
+
+.styleObj7{   
+    font-size: 24;
+    color:whitesmoke;
+    text-align: center;
+    padding-top: 20px;
+    opacity: 0.9;
+  
+    background-size: 200%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width:100%;
+    height:70px;
+    margin-top: 50px;
+    text-decoration: underline;
+    text-justify: auto;
+    text-shadow: 2px 3px black;
+  }
+  
+  tbody{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+  }
